@@ -8,11 +8,9 @@ This is a home assignment project for the Development tools course at Afeka coll
 
 First, clone the repo and enter its root directory:
 
-<!-- TODO: Replace placeholder below with actual repo URL -->
-
 ```sh
-git clone REPO_URL_WILL_GO_HERE
-cd REPO_NAME_WILL_GO_HERE
+git clone https://github.com/Afeka-DevTools/26b-10142-bash-omer
+cd 26b-10142-bash-omer
 ```
 
 Make sure the script you would like to run is executable:
